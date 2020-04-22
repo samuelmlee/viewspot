@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="viewspot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/viewspot_jar</output-path>
+    <root id="archive" name="viewspot.jar">
+      <element id="module-output" name="viewspot" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/org/jackson-core-2.10.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/org/jackson-databind-2.10.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/org/jackson-annotations-2.10.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
